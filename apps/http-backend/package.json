@@ -11,10 +11,11 @@
   "dependencies": {
     "@types/jsonwebtoken": "^9.0.10",
     "express": "^5.2.1",
+    "json": "^11.0.0",
     "jsonwebtoken": "^9.0.3"
   },
-  "dev": { 
-    "@repo/typescript-config": "workspace:*", 
+  "dev": {
+    "@repo/typescript-config": "workspace:*",
     "@types/express": "^5.0.6"
   },
   "keywords": [],
